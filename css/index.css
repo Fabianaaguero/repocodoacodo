@@ -7,3 +7,12 @@ h1 {
 p {
     text-align: justify;
 }
+
+h2 {
+    background: rgb(220, 176, 220);
+}
+
+img {
+    width: 4rem;
+    height: 4rem;
+}
